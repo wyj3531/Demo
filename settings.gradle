@@ -1,1 +1,1 @@
-include ':app', ':logincomponent', ':minecomponent', ':baselibrary', ':registermodel'
+include ':app', ':logincomponent', ':minecomponent', ':baselibrary', ':registermodel', ':trinkedemo', ':library'

@@ -1,0 +1,3 @@
+com/rk/trinkedemo/MainActivity.class
+com/rk/trinkedemo/BaseApplication.class
+com/rk/trinkedemo/SecActivity.class
